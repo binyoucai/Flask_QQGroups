@@ -1,0 +1,5 @@
+Flask==0.12.1
+pyexcel==0.5.9.1
+Flask_Migrate==2.0.3
+Flask_Script==2.0.6
+requests==2.19.1
